@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  avatar           : "headshot.jpg"
+  bio              : "Final-year PhD Student, reasearching epidemiological and statistical modelling utilising the ONS's Coronavirus Infection Survey data to provide unbiased insights on the pandemic."
+  location         : "Cambridge, UK"
+  employer         : "MRC Biostatics Unit, University of Cambridge"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=eItI4d0AAAAJ&hl=en"
-  email            :
+  email            : "joshua.blake@mrc-bsu.cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/joshua-blake-22048b14a/"
   orcid            : "https://orcid.org/0000-0001-7522-3741"
   pinterest        :
   soundcloud       :
