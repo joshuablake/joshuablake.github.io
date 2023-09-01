@@ -15,6 +15,8 @@ My current project is to estimate the distribution for the duration of PCR posit
 
 My supervisors are [Daniela De Angelis](http://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/daniela-de-angelis/) and [Paul Birrell](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/paul-birrell/) (who is primarily based at UKHSA), and I am funded by [Bayes4Health](https://www.lancaster.ac.uk/bayes-for-health/).
 
+[I also blog about things, mostly things I find interesting unrelated to my research, often with a stats-y point-of-view.](https://joshuablake.co.uk/blog/)
+
 ## Publications
 
 - Swallow B, Birrell P, **Blake J**, et al. Challenges in estimation, uncertainty quantification and elicitation for pandemic modelling. *Epidemics, 2022. Authors after first in alphabetical order.*
@@ -26,6 +28,7 @@ My supervisors are [Daniela De Angelis](http://www.mrc-bsu.cam.ac.uk/people/in-a
 
 ## Talks
 
+- "Estimating SARS-CoV-2 transmission from a representative prevalence survey: progress and challenges" at IDD Conf 2023, Sep 2023.
 - "False negative SARS-CoV-2 PCR results in the Coronavirus Infection Survey (CIS)" at Cambridge Infectious Diseases early career researchers’ symposium, Dec 2022.
 - “Duration of PCR positivity for SARS-CoV-2: the key to unbiased incidence estimation” at Armitage week PhD talks, MRC Biostatistics Unit, University of Cambridge, Sep 2022.
 - “Estimating incidence from CIS real-time data” at ONS Covid-19 Infection Survey Analysis Team Meeting, Feb 2022.
