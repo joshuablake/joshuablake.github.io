@@ -28,7 +28,7 @@ My supervisors are [Daniela De Angelis](http://www.mrc-bsu.cam.ac.uk/people/in-a
 
 ## Talks
 
-- "Estimating SARS-CoV-2 transmission from a representative prevalence survey: progress and challenges" at IDD Conf 2023, Sep 2023.
+- "Estimating SARS-CoV-2 transmission from a representative prevalence survey: progress and challenges" at IDD Conf 2023, Sep 2023 [(slides)](https://mrcbsu-my.sharepoint.com/:p:/g/personal/joshua_blake_mrc-bsu_cam_ac_uk/Eash9sngv0lFokr4dfldZgUBY6hFMJoVfFb5jomvUu07NA?e=esbzVm).
 - "False negative SARS-CoV-2 PCR results in the Coronavirus Infection Survey (CIS)" at Cambridge Infectious Diseases early career researchers’ symposium, Dec 2022.
 - “Duration of PCR positivity for SARS-CoV-2: the key to unbiased incidence estimation” at Armitage week PhD talks, MRC Biostatistics Unit, University of Cambridge, Sep 2022.
 - “Estimating incidence from CIS real-time data” at ONS Covid-19 Infection Survey Analysis Team Meeting, Feb 2022.
