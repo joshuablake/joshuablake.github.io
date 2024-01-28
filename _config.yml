@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+a member Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Joshua Blake"
   avatar           : "headshot.jpg"
-  bio              : "Epidemiological and statistical modelling utilising the ONS's Coronavirus Infection Survey data to provide unbiased insights on the pandemic."
-  location         : "MRC Biostatics Unit"
-  employer         : "University of Cambridge"
+  bio              : "Epidemiological and statistical modelling of the COVID-19 pandemic"
+  location         : "Cambridge, UK"
+  employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=eItI4d0AAAAJ&hl=en"
   email            : "joshua.blake@mrc-bsu.cam.ac.uk"

@@ -9,13 +9,19 @@ redirect_from:
 ---
 
 Hi there! I am a final-year PhD student at the [MRC Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/), University of Cambridge.
-My research focuses on how we can best use the [ONS's Coronavirus Infection Survey (CIS)](https://ons.gov.uk/cis) to monitor the COVID-19 pandemic in the UK.
+My research focuses on how to best use the [ONS's Coronavirus Infection Survey (CIS)](https://ons.gov.uk/cis) to monitor the COVID-19 pandemic in the UK.
 This is an exciting dataset to work with because it contains a representative sample of the UK population, removing many of the concerns around bias present in most data relating to the pandemic.
-My current project is to estimate the distribution for the duration of PCR positivity from this data.
+
+More broadly, I am interested in understanding the most cost-effective ways to tackle novel and endemic infectious diseases.
+I am always excited to hear about new ideas and interventions in this space, so please do get in touch if you have any (see the sidebar for my details)!
+
+During the pandemic I was a member of [SPI-M-O, the infectious disease modelling and epidemiology subgroup of the UK Government's SAGE](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling).
+Much of the work I did was publicly available, and widely covered in the media.
+I also implemented [the method for estimating incidence adopted by the Office for National statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/covid19infectionsurveypilotmethodsandfurtherinformation#incidence).
 
 My supervisors are [Daniela De Angelis](http://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/daniela-de-angelis/) and [Paul Birrell](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/paul-birrell/) (who is primarily based at UKHSA), and I am funded by [Bayes4Health](https://www.lancaster.ac.uk/bayes-for-health/).
 
-[I also blog about things, mostly things I find interesting unrelated to my research, often with a stats-y point-of-view.](https://joshuablake.co.uk/blog/)
+[I also blog about a variety of things I find interesting but often not directly related to my research.](https://joshuablake.co.uk/blog/)
 
 ## Publications
 
