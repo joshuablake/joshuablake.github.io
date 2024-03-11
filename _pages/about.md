@@ -25,7 +25,7 @@ My supervisors are [Daniela De Angelis](http://www.mrc-bsu.cam.ac.uk/people/in-a
 
 ## Publications
 
-- Dietz, E, …, **Blake J** et al. [SARS-CoV-2, Influenza A/B and Respiratory Syncytial Virus Positivity and Association with Influenza-like Illness and Self-Reported Symptoms, over the 2022/23 Winter Season in the UK: A Longitudinal Surveillance Cohort.](https://doi.org/10.1101/2023.10.11.23296866) *medRxiv, 2023*.
+- Dietz, E, …, **Blake J** et al. [SARS-CoV-2, influenza A/B and respiratory syncytial virus positivity and association with influenza-like illness and self-reported symptoms, over the 2022/23 winter season in the UK: a longitudinal surveillance cohort.](https://doi.org/10.1101/2023.10.11.23296866) *medRxiv, 2023*.
 - Swallow B, Birrell P, **Blake J**, et al. Challenges in estimation, uncertainty quantification and elicitation for pandemic modelling. *Epidemics, 2022. Authors after first in alphabetical order.*
 - Pellis L, Birrell PJ, **Blake J**, et al. Estimation of reproduction numbers in real time: conceptual and statistical challenges. *Journal of the Royal Statistical Society: Series A, 2022.*
 - Nyberg T, Ferguson NM, **Blake J**, et al. Misclassification bias in estimating clinical severity of SARS-CoV-2 variants – Authors’ reply. *The Lancet, 2022.*
