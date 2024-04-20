@@ -35,6 +35,7 @@ My supervisors are [Daniela De Angelis](http://www.mrc-bsu.cam.ac.uk/people/in-a
 
 ## Talks
 
+- "Introducing base rate forecasting" at Meridian retreat, Apr 2024 [(slides)](https://docs.google.com/presentation/d/1bmwLhpBkHjU3exocNrUtRmhYTXkeQMTD/edit?usp=sharing&ouid=116355777053963374481&rtpof=true&sd=true)
 - "Estimating SARS-CoV-2 transmission from a representative prevalence survey: progress and challenges" at IDD Conf 2023, Sep 2023 [(slides, pptx)]({{site.baseurl}}/assets/slides/iddconf_CIS-focus_FINAL.pptx).
 - "False negative SARS-CoV-2 PCR results in the Coronavirus Infection Survey (CIS)" at Cambridge Infectious Diseases early career researchers’ symposium, Dec 2022.
 - “Duration of PCR positivity for SARS-CoV-2: the key to unbiased incidence estimation” at Armitage week PhD talks, MRC Biostatistics Unit, University of Cambridge, Sep 2022.
